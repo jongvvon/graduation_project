@@ -1,0 +1,8 @@
+chilsung_cider
+coca_cola
+demisoda_apple
+dr_pepper
+gatorade
+pepsi
+pocari_sweat
+powerade
